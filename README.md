@@ -9,7 +9,8 @@ Symmetries repository study group theory implications on machine learning.
 2. Warped Convolutions: Efficient Invariance to Spatial Transformations. https://arxiv.org/abs/1609.04382
 3. Exploiting Cyclic Symmetry in Convolutional Neural Networks. https://arxiv.org/abs/1602.02660
 4. Deep Symmetry Networks. http://papers.nips.cc/paper/5424-deep-symmetry-networks.pdf
-
+5. Physical Symmetries Embedded in Neural Networks https://arxiv.org/pdf/1904.08991.pdf
+6. Discovering Physical Concepts with Neural Networks https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.124.010508
 
 ## Tensor networks and symmetries
 
@@ -22,3 +23,15 @@ many-body quantum lattice systems. https://arxiv.org/pdf/1710.03733.pdf
 ## ML Repo
 
 http://archive.ics.uci.edu/ml/index.php
+
+
+# Group theory 
+
+1. Group Theory in Physics - Wu-Ki Tung
+2. Group Theory in a Nutshell for Physicist - A. Zee
+
+# Workflow
+
+1. Revision of main ingredients of group theory
+2. Notion of symmetry group
+
